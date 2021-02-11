@@ -1,0 +1,2 @@
+# pagerank_viz
+We will build a program for computing the famous pagerank algorithm. Our dataset (Vectors and Edges) is taken from Gnutella peer-to-peer network, August 9 2002. We will: \n 1. **Build the network** \n2. **Execute a pagerank algorithm** \n3. **Adding some damping effects \n4.**Graphical display of our network after the pagerank algorithm is applied** ** \n5. **Interpret our results**
