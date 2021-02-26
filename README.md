@@ -34,7 +34,8 @@ In other to be sure everything is ok, it is highly recommended to test the progr
     2. /!\ This program will crash if you have a vertex with an id greater than the size of the graph
     example:
         ```
-        0 -> 1
-        1 -> 10
+        0   1
+        1   10
         ```
         The size of this graph is 3 (O, 1 and 10), but the program will crash because the id of vertices should be at most 2!, so if your file has this configuration, please rename 10 to 2.
+     3. Make sure vertices are seperated by TABULATIONS, not spaces
